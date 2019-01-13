@@ -10,7 +10,7 @@ This repository is about the movie recommendation with collaborative filtering a
 - Make recommendations.
 
 ## Visitor Cold Start Problem
-Recommendation systems work great when you already have lots of reviews. But you don't know enough about first time users yet to make personalized recommendations. To work around this problem, you can recommend based on average ratings.
+Recommendation systems work great when you already have lots of reviews. But you don't know enough about first time users to make personalized recommendations. To work around this problem, you can recommend based on average ratings.
 
 ## Key Concepts
 ### Content-based Recommender System
